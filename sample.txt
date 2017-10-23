@@ -1,0 +1,3 @@
+for$statistical,machine,translation$statistical,machine_translation$empty$acl
+empty$information,retrieval$information_retrieval$using$acl
+empty$bootstrapped,named,entity,recognition$entity_recognition$for$emnlp
